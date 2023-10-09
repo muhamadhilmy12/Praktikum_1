@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>`substitute(Filename('', 'Page Title'), '^.', '\u&', '')`</title>
+        
+    </head>
+        <h1><center>Curiculum vitae</h1>
+        <hr>
+        <img src="jpg" alt="jpg" width="300" height="400"<img/>
+        <hr/>
+    <body>
+        <h2>Data Pribadi</h2>
+        <table border="1" th colspan="2"
+            <tr>
+                <th>Nama</th>
+                <td>Muhamad Hilmy</td>
+            </tr>
+            <tr>
+                <th>Tempat, tanggal lahir</th>
+                <td>Bogor,02 Oktober,2004</td>
+            </tr>
+            <tr>
+                <th>Jenis kelamin</th>
+                <td>Laki-laki</td>
+            </tr>
+            <tr>
+                <th>Agama</th>
+                <td>Islam</td>
+            </tr>
+            <tr>
+                <th>prodi</th>
+                <td>Sistem Informasi</td>
+            </tr>
+            <tr>
+                <th>NIM</th>
+                <td>0110123030</td>
+            </tr>
+            <tr>
+                <th>Kewarganegaraan</th>
+                <td>Indonesia</td>
+            </tr>
+            <tr>
+                <th>Alamat</th>
+                <td>Kp.Karang Tengah,Rt003/Rw001,Kel.Karang Tengah,Kec.Pagedangan,Kab.Tangerang,Banten</td>
+            </tr>
+            <tr>
+                <th>Nomer Hp</th>
+                <td>085716026889</td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td>muhamadhilmy15@gmail.com</td>
+            </tr>
+        </table>
+        <hr>
+        <h3>Pendidikan</h3>
+        <ul>
+            <li>MA Tadibul Ummah, lulusan tahun 2023</li>
+            <li>MTS Al-Makmur, lulusan tahun 2020</li>
+            <li>SDN MalangNengah 03,lulusan tahun 2017</li>
+        </ul>
+        <hr>
+        <h4>Kemampuan/Skill</h4>
+        <ul>
+            <li>Microsoft office world (Basic)</li>
+            <li>B.Indonesia(Aktif),B.Inggris(Pasif)</li>
+            <li>Dapat bekerja sama dengan tim</li>
+            <li>Cepat beradaptasi dengan sekitar</li>
+        </ul>
+        <hr>
+        <h4>Pengalaman</h4>
+        <ul>
+            <li>Menjalankan tugas akhir (SMA) dengan program pkl yaitu dengan mengajar di sekolah menengah pertama (SMP),dan membantu tugas sebagai staf TU,menggantikan tugas guru yang berhalangan hadir di kelas dengan mengajar pelajaran guru yang berhalangan hadir tersebut,melakukan absensi seluruh siswa, dan menjalankan perintah yang lainnya ketika di berikan perintah</li>
+            <li>Aktif dan ikut organisasi osis di sekolah sebagai anggota dengan membantu menjalankan tugas-tugas di organisasi tersebut</li>
+        </ul>
+        <hr>
+        <h5>Hobi</h5>
+        <ul>
+            <li>Bermain game mobile</li>
+            <li>Membaca buku cerita fiksi dan buku-buku yang berkaitan dengan motivasi hidup</li>
+            <li>Berenang dan badminton</li>
+            <li>(Motto) Terus semangat dan maju!!! jalani hidup ini dengan rasa syukur,Kalo cape istirahat dulu.</li>
+        </ul>
+        
+    </body>
+</html>
